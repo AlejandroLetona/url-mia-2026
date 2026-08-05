@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\bin\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.exe
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\bin\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.deps.json
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\bin\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.runtimeconfig.json
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\bin\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.dll
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\bin\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.pdb
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.sourcelink.json
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.dll
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\refint\MIA_Parcial_1_Alejandro_Letona.dll
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.pdb
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\MIA_Parcial_1_Alejandro_Letona.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\url-mia-2026\MIA_Parcial_1_Alejandro_Letona\obj\Debug\net10.0\ref\MIA_Parcial_1_Alejandro_Letona.dll
