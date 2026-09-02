@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIA_Parcial_1_Alejandro_Letona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5663b3f6bcd54946834396e12a588a7865193467")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe416f9cd20bca52c50f6ddddad8ffd1c906f40f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIA_Parcial_1_Alejandro_Letona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIA_Parcial_1_Alejandro_Letona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
