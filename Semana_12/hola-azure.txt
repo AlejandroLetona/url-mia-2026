@@ -1,0 +1,2 @@
+Hola Azure
+Este es mi primer archivo almacenado en Azure Blob Storage.
