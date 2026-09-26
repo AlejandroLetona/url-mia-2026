@@ -7,7 +7,7 @@ class Program
     static async Task Main(string[] args)
     {
         string connectionString =
-            "DefaultEndpointsProtocol=https;AccountName=miastoragesemana12;AccountKey=Wgq+8CQXO0+0KO04g2lK9DLYeHZk/84Dv9hedTBkjsmyywbbHYQXTmfDtXM8EEYseBkD1f7Oa10c+AStDe/bWg==;EndpointSuffix=core.windows.net";
+            "Conection string, necesario cambiarla dentro esta en el README.txt";
 
         string containerName = "miaarchivos";
 

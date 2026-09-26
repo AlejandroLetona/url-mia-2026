@@ -74,6 +74,7 @@ dotnet add package Azure.Storage.Blobs
 
 Configurar la variable:
 
+Conection string
 $env:AZURE_STORAGE_CONNECTION_STRING="DefaultEndpointsProtocol=https;AccountName=miastoragesemana12;AccountKey=Wgq+8CQXO0+0KO04g2lK9DLYeHZk/84Dv9hedTBkjsmyywbbHYQXTmfDtXM8EEYseBkD1f7Oa10c+AStDe/bWg==;EndpointSuffix=core.windows.net"
 
 Ejecutar:
